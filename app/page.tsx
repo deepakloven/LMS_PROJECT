@@ -1,3 +1,6 @@
+import Deepak from './Deepak'
 export default function Home() {
-  return <h1>LMS</h1>;
+  return <>
+  <Deepak />
+  </>
 }

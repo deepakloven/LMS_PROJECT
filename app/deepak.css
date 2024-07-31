@@ -1,0 +1,18 @@
+.customTypography{
+    
+
+}
+.button_enroll{
+    width: 75%;
+}
+.button_enroll:hover{
+    
+background-color: rgb(45, 152, 45);
+color: black;
+}
+.title_class{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+letter-spacing: 1rem;
+font-size: 33px;
+
+}
