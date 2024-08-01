@@ -1,0 +1,13 @@
+.form_main{
+    background-color: rebeccapurple;
+    width: 100%;
+    border: 2px solid;
+}
+.main_box{
+    border: 2px solid;
+    background-color: rgb(41, 6, 240);
+}
+.form_submit{
+    border: 2px solid;
+
+}

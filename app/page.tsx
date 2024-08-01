@@ -1,6 +1,7 @@
-import Deepak from './Deepak'
+import CourseEnroll from './CourseEnroll/CourseEnroll';
+
 export default function Home() {
   return <>
-  <Deepak />
+  <CourseEnroll />
   </>
 }
